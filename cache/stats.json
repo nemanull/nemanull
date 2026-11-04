@@ -1,0 +1,124 @@
+{
+ "additions": 184792,
+ "blog": {
+  "latest": "Stablecoin Tax in Canada, the US, the UK and the EU",
+  "posts": 51
+ },
+ "commits": 1938,
+ "contributed": 5,
+ "contributions": 1988,
+ "created": "2020-02-22T07:12:35Z",
+ "deletions": 16297,
+ "followers": 2,
+ "loc": {
+  "Jas-0528/4640-w9-lab": {
+   "additions": 207,
+   "commits": 1,
+   "deletions": 0,
+   "max": 10000,
+   "oid": "6b90d45fcb3f069f5e2db7d950cea97266db5690"
+  },
+  "Jas-0528/ACIT-4640_Week2Lab": {
+   "additions": 108,
+   "commits": 3,
+   "deletions": 84,
+   "max": 10000,
+   "oid": "dad9732a3d197e92700c4b811e57cc1ce4a66ca3"
+  },
+  "Jas-0528/acit4640-wk7-intro-to-ansible-lab-files": {
+   "additions": 1138,
+   "commits": 1,
+   "deletions": 0,
+   "max": 10000,
+   "oid": "7f16df8b601a2f64c6b722d4a5fe4f5ec13228e1"
+  },
+  "Tokenbooks/wt": {
+   "additions": 808,
+   "commits": 2,
+   "deletions": 27,
+   "max": 10000,
+   "oid": "37671906a879ad9fae76ffd9f3ad032fd0b8d949"
+  },
+  "Tredecate/acit3495-p1-g20": {
+   "additions": 1485,
+   "commits": 3,
+   "deletions": 164,
+   "max": 10000,
+   "oid": "227c37930b339249df1be7d96bd1e8c74c9f3960"
+  },
+  "nemanull/CampaignFactory": {
+   "additions": 339,
+   "commits": 4,
+   "deletions": 18,
+   "max": 10000,
+   "oid": "435e817026bac69027392ad572a609748dcab87d"
+  },
+  "nemanull/arbitrage-observatory": {
+   "additions": 82889,
+   "commits": 62,
+   "deletions": 6156,
+   "max": 10000,
+   "oid": "ea99d6df18a145a2fa906ce049f80e5484902e02"
+  },
+  "nemanull/crypto_real_estate_platform": {
+   "additions": 38,
+   "commits": 4,
+   "deletions": 8,
+   "max": 10000,
+   "oid": "60f3176833f8981af277718e07b0b241fd60dd4f"
+  },
+  "nemanull/crypto_real_estate_platform_smart_contracts": {
+   "additions": 469,
+   "commits": 2,
+   "deletions": 0,
+   "max": 10000,
+   "oid": "e9e70694f4e5baf6e099b7864914cb4e29d7c558"
+  },
+  "nemanull/frida-dynamic-analysis": {
+   "additions": 1021,
+   "commits": 7,
+   "deletions": 379,
+   "max": 10000,
+   "oid": "2cf28a8242618d6af463e95208b1199c6fa08a07"
+  },
+  "nemanull/nemafetch": {
+   "additions": 392,
+   "commits": 1,
+   "deletions": 0,
+   "max": 10000,
+   "oid": "a443dd23992829da2707c7c865a6dc005b29a571"
+  },
+  "nemanull/nemanull": {
+   "additions": 882,
+   "commits": 1,
+   "deletions": 0,
+   "max": 10000,
+   "oid": "ffd439d7cf21f5d9f2a1149fd7081fd515eaa450"
+  },
+  "nemanull/perp-walkforward": {
+   "additions": 18744,
+   "commits": 30,
+   "deletions": 3467,
+   "max": 10000,
+   "oid": "45a6e9753aaf4a86ddf92140b7d4586a0f54d166"
+  },
+  "nemanull/remora": {
+   "additions": 73121,
+   "commits": 44,
+   "deletions": 3750,
+   "max": 10000,
+   "oid": "e070041efd3bec4413af905f15482730fc0f894f"
+  },
+  "nemanull/shardmint": {
+   "additions": 3151,
+   "commits": 5,
+   "deletions": 2244,
+   "max": 10000,
+   "oid": "eb941420fc569a5ad14678bd3e5eb4d5d876e12b"
+  }
+ },
+ "past_year": 1397,
+ "repos": 10,
+ "stars": 0,
+ "updated": "2026-11-04T05:03:56+00:00"
+}

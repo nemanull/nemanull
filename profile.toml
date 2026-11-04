@@ -1,0 +1,62 @@
+user = "nemanull"
+header = "maksym@nemanull"
+alt = "Maksym (nemanull), Staff Software Engineer at Tokenbooks working on DeFi and quantitative systems: ASCII portrait next to a nemafetch-style info panel"
+
+include_private = false
+uptime_since = 2021-06-01
+blog_feed = "https://nemanull.blog/rss.xml"
+
+[[block]]
+lines = [
+  ["OS", "Debian 13 (trixie), Android"],
+  ["Uptime", "{uptime}"],
+  ["Host", "Tokenbooks"],
+  ["Kernel", "Staff Software Engineer"],
+  ["Location", "Earth"],
+  ["Shell", "zsh"],
+  ["IDE", "Zed"],
+]
+
+[[block]]
+lines = [
+  ["Languages.Programming", "Rust, TypeScript, Python, C"],
+  ["Languages.Computer", "SQL, Solidity, kdb+/q, Bash"],
+  ["Languages.Real", "English, Ukrainian, Russian, French"],
+]
+
+[[block]]
+lines = [
+  ["Hobbies.Software", "trading bots, research, DeFi"],
+  ["Hobbies.Hardware", "local LLMs, hardware programming"],
+]
+
+[[block]]
+title = "Research"
+lines = [
+  ["Focus", "Decentralized Finance | Quantitative Systems"],
+  ["DeFi", "stablecoins, staking, ERC-4337, ERC-4626 vaults"],
+  ["Quant", "cross-venue arbitrage, perp return prediction"],
+  ["Blog", "nemanull.blog, {posts} posts"],
+]
+
+[[block]]
+title = "Projects"
+lines = [
+  ["arbitrage-observatory", "60 venues, 19K L2 books, 85K msg/s"],
+  ["remora", "Hyperliquid copy-trading, paper + live"],
+  ["perp-walkforward", "20-min reversal, rank IC 0.029, t 4.7"],
+]
+
+[[block]]
+title = "Contact"
+lines = [
+  ["LinkedIn", "linkedin.com/in/maksym-buhai"],
+]
+
+[[block]]
+title = "GitHub Stats"
+stats = [
+  [["Repos", "{repos} {{Contributed: {contributed}}}"], ["Followers", "{followers}"]],
+  [["Contributions", "{contributions}"], ["Past year", "{past_year}"]],
+  [["Lines of code", "{loc}"]],
+]
