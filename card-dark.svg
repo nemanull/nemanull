@@ -46,7 +46,7 @@ text { font-family: 'CardMono', 'DejaVu Sans Mono', Menlo, Consolas, monospace; 
 <text x="15" y="710">  ;'  ` .;:|~ddk||\  !jj|!!;;:::;;/kkk];\dd|||;:.  `  ;  ,</text>
 <text x="592.97" y="30">maksym@nemanull -——————————————————————————————————————————-—-</text>
 <text x="592.97" y="50"><tspan class="d">. </tspan><tspan class="k">OS</tspan>:<tspan class="d"> ............................ </tspan><tspan class="v">Debian 13 (trixie), Android</tspan></text>
-<text x="592.97" y="70"><tspan class="d">. </tspan><tspan class="k">Uptime</tspan>:<tspan class="d"> .......................... </tspan><tspan class="v">5 years, 5 months, 7 days</tspan></text>
+<text x="592.97" y="70"><tspan class="d">. </tspan><tspan class="k">Uptime</tspan>:<tspan class="d"> .......................... </tspan><tspan class="v">5 years, 5 months, 8 days</tspan></text>
 <text x="592.97" y="90"><tspan class="d">. </tspan><tspan class="k">Host</tspan>:<tspan class="d"> ........................................... </tspan><tspan class="v">Tokenbooks</tspan></text>
 <text x="592.97" y="110"><tspan class="d">. </tspan><tspan class="k">Kernel</tspan>:<tspan class="d"> ............................ </tspan><tspan class="v">Staff Software Engineer</tspan></text>
 <text x="592.97" y="130"><tspan class="d">. </tspan><tspan class="k">Location</tspan>:<tspan class="d"> ............................................ </tspan><tspan class="v">Earth</tspan></text>
@@ -72,6 +72,6 @@ text { font-family: 'CardMono', 'DejaVu Sans Mono', Menlo, Consolas, monospace; 
 <text x="592.97" y="590"><tspan class="d">. </tspan><tspan class="k">LinkedIn</tspan>:<tspan class="d"> ..................... </tspan><tspan class="v">linkedin.com/in/maksym-buhai</tspan></text>
 <text x="592.97" y="630">- GitHub Stats -———————————————————————————————————————————-—-</text>
 <text x="592.97" y="650"><tspan class="d">. </tspan><tspan class="k">Repos</tspan>:<tspan class="d"> .... </tspan><tspan class="v">10 </tspan>{<tspan class="k">Contributed</tspan>: <tspan class="v">5</tspan>} | <tspan class="k">Followers</tspan>:<tspan class="d"> ............. </tspan><tspan class="v">2</tspan></text>
-<text x="592.97" y="670"><tspan class="d">. </tspan><tspan class="k">Contributions</tspan>:<tspan class="d"> .......... </tspan><tspan class="v">2,008</tspan> | <tspan class="k">Past year</tspan>:<tspan class="d"> ......... </tspan><tspan class="v">1,416</tspan></text>
+<text x="592.97" y="670"><tspan class="d">. </tspan><tspan class="k">Contributions</tspan>:<tspan class="d"> .......... </tspan><tspan class="v">2,008</tspan> | <tspan class="k">Past year</tspan>:<tspan class="d"> ......... </tspan><tspan class="v">1,378</tspan></text>
 <text x="592.97" y="690"><tspan class="d">. </tspan><tspan class="k">Lines of code</tspan>:<tspan class="d"> ............. </tspan><tspan class="v">168,495</tspan> ( <tspan class="a">184,792++</tspan>, <tspan class="x">16,297--</tspan> )</text>
 </svg>
