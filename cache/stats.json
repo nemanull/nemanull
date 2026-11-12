@@ -93,7 +93,7 @@
    "commits": 1,
    "deletions": 0,
    "max": 10000,
-   "oid": "6ccbdd4b12d41adc956f5fe3ec94c6d9b565175f"
+   "oid": "beadcf3bb1417144324d4ae8f8acb8e9c4058fc0"
   },
   "nemanull/perp-walkforward": {
    "additions": 18744,
@@ -120,5 +120,5 @@
  "past_year": 1389,
  "repos": 10,
  "stars": 0,
- "updated": "2026-11-11T15:13:03+00:00"
+ "updated": "2026-11-12T15:58:59+00:00"
 }
