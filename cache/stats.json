@@ -4,9 +4,9 @@
   "latest": "Stablecoin Tax in Canada, the US, the UK and the EU",
   "posts": 51
  },
- "commits": 1990,
+ "commits": 1992,
  "contributed": 5,
- "contributions": 2041,
+ "contributions": 2043,
  "created": "2020-02-22T07:12:35Z",
  "deletions": 16297,
  "followers": 2,
@@ -93,7 +93,7 @@
    "commits": 1,
    "deletions": 0,
    "max": 10000,
-   "oid": "ae206d96d998fce6298bd6f51c62eac583335164"
+   "oid": "8d4e17d12496bdec91d66ebbd22342d31554ffb5"
   },
   "nemanull/perp-walkforward": {
    "additions": 18744,
@@ -117,8 +117,8 @@
    "oid": "eb941420fc569a5ad14678bd3e5eb4d5d876e12b"
   }
  },
- "past_year": 1355,
+ "past_year": 1357,
  "repos": 10,
  "stars": 0,
- "updated": "2026-11-17T16:53:31+00:00"
+ "updated": "2026-11-18T16:28:00+00:00"
 }
