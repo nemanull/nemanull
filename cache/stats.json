@@ -4,9 +4,9 @@
   "latest": "Is Wrapping or Bridging Crypto Taxable? Canada, US, UK and EU Rules",
   "posts": 61
  },
- "commits": 2073,
+ "commits": 2075,
  "contributed": 5,
- "contributions": 2124,
+ "contributions": 2126,
  "created": "2020-02-22T07:12:35Z",
  "deletions": 16297,
  "followers": 2,
@@ -93,7 +93,7 @@
    "commits": 1,
    "deletions": 0,
    "max": 10000,
-   "oid": "2aeaf9ed6396447b2e107f364976c7d7af2f7b03"
+   "oid": "0d48235ee6b5978047c518c75f9791bf9dbeb171"
   },
   "nemanull/perp-walkforward": {
    "additions": 18744,
@@ -117,8 +117,8 @@
    "oid": "eb941420fc569a5ad14678bd3e5eb4d5d876e12b"
   }
  },
- "past_year": 1410,
+ "past_year": 1412,
  "repos": 10,
  "stars": 0,
- "updated": "2026-11-26T17:44:01+00:00"
+ "updated": "2026-11-27T17:28:03+00:00"
 }
